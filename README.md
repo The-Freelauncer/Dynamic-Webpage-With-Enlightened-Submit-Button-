@@ -8,9 +8,13 @@ Anyone Interested for Backend and Edits on Frontend is Gracefully welcomed.
 Wishing you Happy Coding Life 
 
 #while (life==True):
+<br>
   code()
+  <br>
   eat()
+  <br>
   sleep()
+  <br>
   repeat()
 
 Yours Faithfully,
