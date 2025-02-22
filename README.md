@@ -7,7 +7,7 @@ Anyone Interested for Backend and Edits on Frontend is Gracefully welcomed.
 
 Wishing you Happy Coding Life 
 
-#while (life==True):
+#while (life==True){
 <br>
   code()
   <br>
@@ -16,6 +16,8 @@ Wishing you Happy Coding Life
   sleep()
   <br>
   repeat()
+  <br>
+  }
 
 Yours Faithfully,
 
